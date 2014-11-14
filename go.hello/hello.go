@@ -1,5 +1,7 @@
+package main
+
+import "fmt"
 
 func main(){
-	x := 123
-	println(x, s, f)
+	fmt.Printf("Hello, gohpers!\n")
 }

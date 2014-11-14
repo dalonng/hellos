@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "4minutes": {
+            "applicationId": "tTxad6HNhTIrPL9jbLCxZat17AdvNUsx8jUpwbrO", 
+            "masterKey": "gDM3I2D26AbkTwJqnysV94vMhqwOXhjj3tIJGZu2"
+        }, 
+        "_default": {
+            "link": "4minutes"
+        }
+    }
+}
