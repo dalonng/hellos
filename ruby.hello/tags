@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ModuleY	moduley.rb	/^module ModuleY$/;"	m
+ModuleY	moduley.rb~	/^module ModuleY$/;"	m
+Score	score.rb	/^class Score$/;"	c
+go	moduley.rb	/^  def go$/;"	f	class:ModuleY
+go	moduley.rb~	/^  def go$/;"	f	class:ModuleY
+initialize	score.rb	/^  def initialize (id=0, subject, score, student_name, explain)$/;"	f	class:Score
+show	moduley.rb	/^  def self.show $/;"	F	class:ModuleY
+show	moduley.rb~	/^  def self.show $/;"	F	class:ModuleY
