@@ -20,7 +20,6 @@ myInfo = Book 9780135072455 "Algebra of Programming"
 type CustomerID = Int
 type ReviewBody = String
 
-
 data BookReview = BookReview BookInfo CustomerID String
 
 type BookRecord = (BookInfo, BookReview)
