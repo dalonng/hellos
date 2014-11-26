@@ -47,3 +47,4 @@ tramp
 # cask packages
 .cask/
 
+jl.hello/*.html
